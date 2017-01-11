@@ -1,0 +1,8 @@
+1. Прорабатывать с другими примерами.
+2. Посмотреть про CompleatableFuture.
+3. http://goo.gl/Wx8Vd - про Condition interface, альтернатива для wait() и notify(). Почитать и посмотреть в гугле.
+4. http://bit.ly/1lzn2rF - ExecutorService. Fork/Join (java7)
+5. http://bit.ly/1kyElaK - Oracle tutorial on Parallelism(java8). Stream API.
+6. У Derek Banas посмотреть уроки по multiThreading. 
+
+Побольше практики с Lock, вешать на методы. Если на классы, то жрёт ресурсы. 
